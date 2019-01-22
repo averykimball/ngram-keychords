@@ -53,8 +53,6 @@ Here is the list of keychords I currently use:
 "t5"
 
 ;; ;; Right-hand numrow chords
-;; Home row to number row too stretchy
-;; Numrow to numrow conflicts with *actual* number entry.
 
 ;; Natural toprow and numrow
 "u9"
