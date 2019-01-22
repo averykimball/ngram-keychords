@@ -84,6 +84,8 @@ Here is the list of keychords I currently use:
 "o0"
 "p-"
 
+;; Alpha-only
+
 "jk"
 "kk"
 "jl"
@@ -148,4 +150,11 @@ Here is the list of keychords I currently use:
 
 "cv"
 "xv"
+
+"l["
+"l]"
+
+",;"
+",'"
+
 ```
